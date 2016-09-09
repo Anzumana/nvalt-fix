@@ -1,7 +1,7 @@
 {
   "name": "nvalt-fix",
-  "version": "0.0.3",
-	"bin":{
-		"nvalt-fix" : "index.js"
-	}
+  "version": "0.0.4",
+  "bin": {
+    "nvalt-fix": "index.js"
+  }
 }
