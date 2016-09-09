@@ -6,4 +6,8 @@ So depending on which machine your one we will move the files into the correct f
 node test.js 
 
 Will have to add some additional command line arguments at some point
+#npm
+To install with npm use
+
+				npm install nvalt-fix
 
